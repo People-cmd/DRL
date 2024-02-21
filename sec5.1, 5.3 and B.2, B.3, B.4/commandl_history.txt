@@ -1,0 +1,38 @@
+2024/02/20 16:10:35	E:/Learn_Project/单子/sec5.1, 5.3 and B.2, B.3, B.4/main.py
+2024/02/20 16:12:05	E:/Learn_Project/单子/sec5.1, 5.3 and B.2, B.3, B.4/main.py
+2024/02/20 16:14:29	E:/Learn_Project/单子/sec5.1, 5.3 and B.2, B.3, B.4/main.py
+2024/02/20 16:26:05	E:/Learn_Project/单子/sec5.1, 5.3 and B.2, B.3, B.4/main.py
+2024/02/20 16:26:14	E:/Learn_Project/单子/sec5.1, 5.3 and B.2, B.3, B.4/main.py
+2024/02/20 16:26:21	E:/Learn_Project/单子/sec5.1, 5.3 and B.2, B.3, B.4/main.py
+2024/02/20 16:30:00	E:/Learn_Project/danzhi/sec5.1, 5.3 and B.2, B.3, B.4/main.py
+2024/02/20 16:35:06	main.py --optim adam --alg DQN --prioritized-replay --double --dueling --learning-start 50000 --frame-downscale 2 --env PongNoFrameskip-v4 --seed 1
+2024/02/20 16:36:27	E:/Learn_Project/danzhi/sec5.1, 5.3 and B.2, B.3, B.4/main.py
+2024/02/20 16:38:26	main.py --optim adam --alg DQN --prioritized-replay --double --dueling --learning-start 50000 --frame-downscale 2 --env PongNoFrameskip-v4 --seed 1
+2024/02/20 16:48:28	E:/Learn_Project/danzhi/sec5.1, 5.3 and B.2, B.3, B.4/main.py
+2024/02/20 16:49:01	E:/Learn_Project/danzhi/sec5.1, 5.3 and B.2, B.3, B.4/main.py
+2024/02/20 19:55:29	E:/Learn_Project/danzhi/sec5.1, 5.3 and B.2, B.3, B.4/main.py
+2024/02/20 20:07:33	E:/Learn_Project/danzhi/sec5.1, 5.3 and B.2, B.3, B.4/main.py
+2024/02/20 20:13:26	E:/Learn_Project/danzhi/sec5.1, 5.3 and B.2, B.3, B.4/main.py
+2024/02/20 20:16:31	E:/Learn_Project/danzhi/sec5.1, 5.3 and B.2, B.3, B.4/main.py
+2024/02/20 20:16:51	E:/Learn_Project/danzhi/sec5.1, 5.3 and B.2, B.3, B.4/main.py
+2024/02/20 20:17:32	E:/Learn_Project/danzhi/sec5.1, 5.3 and B.2, B.3, B.4/main.py
+2024/02/20 20:23:19	E:/Learn_Project/danzhi/sec5.1, 5.3 and B.2, B.3, B.4/main.py
+2024/02/20 20:25:37	E:/Learn_Project/danzhi/sec5.1, 5.3 and B.2, B.3, B.4/main.py
+2024/02/20 20:31:32	E:/Learn_Project/danzhi/sec5.1, 5.3 and B.2, B.3, B.4/main.py
+2024/02/20 20:34:33	main.py --optim adam --alg DQN --prioritized-replay --double --dueling --learning-start 50000 --frame-downscale 2 --env PongNoFrameskip-v4 --seed 1
+2024/02/20 20:40:33	E:/Learn_Project/danzhi/sec5.1, 5.3 and B.2, B.3, B.4/main.py
+2024/02/20 20:45:16	E:/Learn_Project/danzhi/sec5.1, 5.3 and B.2, B.3, B.4/main.py
+2024/02/20 20:52:27	E:/Learn_Project/danzhi/sec5.1, 5.3 and B.2, B.3, B.4/main.py
+2024/02/20 21:04:59	E:/Learn_Project/danzhi/sec5.1, 5.3 and B.2, B.3, B.4/main.py
+2024/02/20 21:08:36	E:/Learn_Project/danzhi/sec5.1, 5.3 and B.2, B.3, B.4/main.py
+2024/02/21 09:17:10	E:/Learn_Project/danzhi/sec5.1, 5.3 and B.2, B.3, B.4/main.py
+2024/02/21 09:34:53	E:/Learn_Project/danzhi/sec5.1, 5.3 and B.2, B.3, B.4/main.py
+2024/02/21 09:40:36	E:/Learn_Project/danzhi/sec5.1, 5.3 and B.2, B.3, B.4/main.py
+2024/02/21 09:56:03	E:/Learn_Project/danzhi/sec5.1, 5.3 and B.2, B.3, B.4/main.py
+2024/02/21 10:03:06	E:/Learn_Project/danzhi/sec5.1, 5.3 and B.2, B.3, B.4/main.py
+2024/02/21 10:03:34	E:/Learn_Project/danzhi/sec5.1, 5.3 and B.2, B.3, B.4/main.py
+2024/02/21 10:03:50	E:/Learn_Project/danzhi/sec5.1, 5.3 and B.2, B.3, B.4/main.py
+2024/02/21 10:08:03	E:/Learn_Project/danzhi/sec5.1, 5.3 and B.2, B.3, B.4/main.py
+2024/02/21 10:25:22	E:/Learn_Project/danzhi/sec5.1, 5.3 and B.2, B.3, B.4/main.py
+2024/02/21 10:26:51	E:/Learn_Project/danzhi/sec5.1, 5.3 and B.2, B.3, B.4/main.py
+2024/02/21 10:53:36	E:/Learn_Project/danzhi/sec5.1, 5.3 and B.2, B.3, B.4/main.py
